@@ -4,7 +4,15 @@
       "uuid": "node-e2e-test-1",
       "id": "e2e-test-node",
       "label": "E2E Test Node",
-      "images": []
+      "images": [
+        {
+          "image_id": "e2e-test-node-img",
+          "caption": "E2E e2e-1770676508214-i12v",
+          "file_extension": "png",
+          "caption_overridden": false
+        }
+      ],
+      "images_overridden": true
     }
   ],
   "edges": [],
@@ -13,6 +21,7 @@
   },
   "metadata": {
     "version": "1.0.0",
-    "created_at": "2026-02-09T00:00:00.000Z"
+    "created_at": "2026-02-09T00:00:00.000Z",
+    "updated_at": "2026-02-09T22:35:11.774Z"
   }
 }
