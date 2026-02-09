@@ -1,0 +1,3 @@
+- id: e2e-test-graph
+  path: nodes/e2e-test-graph.json
+  type: graph
